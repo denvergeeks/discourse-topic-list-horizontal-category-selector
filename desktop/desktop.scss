@@ -29,10 +29,12 @@
     border-radius: 4px !important;
 }
 
+/*
 .list-controls .select-kit.tag-chooser .select-kit-row,
 .list-controls .select-kit.mini-tag-chooser .select-kit-row,
+*/
 
-.list-controls .category-drop .select-kit.category-drop .select-kit-row {
+.list-controls .category-drop .category-breadcrumb__category-selector .category-row .select-kit-row {
     padding: .1em .5em !important;
     border-radius: 4px !important;
 }
