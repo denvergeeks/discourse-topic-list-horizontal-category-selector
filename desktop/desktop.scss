@@ -43,7 +43,7 @@ select-kit single-select combobox combo-box category-drop is-expanded ember-view
 }
  */
 
-.list-controls .category-drop .select-kit .select-kit-row {
+.list-controls .category-drop .select-kit div.category-row.select-kit-row {
     padding: .1em .5em !important;
     border-radius: 4px !important;
 }
