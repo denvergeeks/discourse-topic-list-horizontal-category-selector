@@ -23,6 +23,8 @@
     display: flex !important;
     flex-wrap: wrap !important;
     flex-direction: column !important;
+    flex-grow: 1;
+    min-height: 0;
     overflow-x: auto !important;
     overflow-y: auto !important;
     background-color: var(--secondary) !important;
